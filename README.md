@@ -1,2 +1,0 @@
-# SYMBNB
-SYMBNB
